@@ -35,7 +35,7 @@
   <li>Access the Minivisor web application in your browser.</li>
   <li>Browse the available inventory and place orders for products.</li>
   <li>Monitor low stock notifications and take appropriate actions to replenish inventory.</li>
-  <li>Stay updated with the <strong>daily taste test</strong> provided by the supervisor.</li>
+  <li>Stay updated with the <strong>daily taste test</strong> managed perfectly within Minivisor.</li>
   <li>Explore the comprehensive reports or receive them via Telegram for detailed insights into your inventory and taste test results.</li>
 </ol>
 
