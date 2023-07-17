@@ -11,15 +11,15 @@
   <li><strong>Comprehensive Inventory Overview:</strong> Minivisor provides a complete overview of your inventory, displaying all relevant information.</li>
   <li><strong>Low Inventory Notifications:</strong> The application sends <strong>automatic notifications</strong> when an item's quantity falls below a certain threshold. This feature helps the café supervisor stay informed about low stock items and their impact on product availability.</li>
   <li><strong>Dependency Tracking:</strong> Minivisor identifies which products are dependent on low stock items. This information is crucial for the café supervisor to make informed decisions about product availability.</li>
-  <li><strong>Daily Taste Test:</strong> The supervisor provides a specific item for <em>taste testing</em> every day. This information is communicated to the staff through the application.</li>
-  <li><strong>Generated Message Report:</strong> The supervisor's daily taste test results are compiled into a message report and sent via a Telegram bot. The report provides valuable insights for further decision making.</li>
+  <li><strong>Daily Taste Test:</strong> The supervisor can manage list of specific items for <em>taste testing</em> every day. This information is communicated for maintaining the quality of cafe products.</li>
+  <li><strong>Generated Message Report:</strong> The supervisor's daily taste test results are compiled into a message report displayed properly in the webapp iteself and sent via Telegram bot. The report provides valuable insights for further decision making.</li>
 </ul>
 
 <h2>Technologies Used</h2>
 <ul>
   <li><strong>Front-end and Back-end:</strong> Minivisor is built using <em>Nuxt.js</em>, which enables seamless development of both the front-end and back-end components of the application.</li>
   <li><strong>Database:</strong> <em>MongoDB</em> is used as the database system for efficient and reliable storage of inventory data.</li>
-  <li><strong>Telegram Integration:</strong> Minivisor utilizes <em>GrammyJS</em> to send notifications, including the daily taste test information, and generate comprehensive reports via Telegram. The option to send reports through a Telegram bot or display them within the web application is available.</li>
+  <li><strong>Telegram Integration:</strong> Minivisor utilizes <em>GrammyJS</em> to send notifications, including the daily taste test information, and generate comprehensive reports via Telegram. The option to send reports through a Telegram bot or display them much more simple and beautifully with much more details within the web application is also available.</li>
 </ul>
 
 <h2>Installation and Setup</h2>
