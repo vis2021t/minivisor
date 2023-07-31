@@ -1,3 +1,5 @@
+<h3>Made For My Special <h1>Colynee</h1></h3>
+
 <h1>Minivisor 📦</h1>
 
 <p> <strong>Minivisor</strong> is a problem-solving web application designed to efficiently manage inventory. It offers a user-friendly interface for ordering products while <strong>automatically deducting</strong> the corresponding quantities from the inventory. With Minivisor, you can also <strong>add or remove inventory items</strong> as needed. Additionally, you can <strong>generate Telegram message-based reports</strong> for quantity and taste, and enjoy many more features. 🚀 </p>
